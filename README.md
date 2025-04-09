@@ -7,4 +7,4 @@ This tool is intended to be used by LATRO Analysts to investigate suspect missed
 ## Documentation Overview
 1. [Release Notes](./releases/README.md)
 2. [Video Tutorial](./tutorials/README.md)
-3. [Written Tutorial](./tutorials/WrittenTutorial.md)
+3. [Written Tutorial](./tutorials/WrittenTutorial.md) (includes link to tool download)
