@@ -1,0 +1,5 @@
+# How To Use The Tool
+
+## Prerequisites
+1. Ensure that your iNOC VPN IP Address has been whitelisted in the tool. If you have not previously requested this, please submit a ME ticket to Versa US Engineering Support and provide your iNOC VPN IP Address (this can be found by opening Forticlient app). 
+2. Download the 
